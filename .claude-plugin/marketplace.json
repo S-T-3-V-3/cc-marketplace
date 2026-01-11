@@ -1,14 +1,14 @@
 {
-  "name": "st3v3-marketplace",
+  "name": "cc-marketplace",
   "owner": {
     "name": "S-T-3-V-3"
   },
   "plugins": [
     {
-      "name": "claude-ai-architect",
+      "name": "cc-architect",
       "source": {
         "source": "github",
-        "repo": "S-T-3-V-3/claude-ai-architect"
+        "repo": "S-T-3-V-3/cc-architect"
       },
       "description": "Route planning, architecture, and review work through configurable AI CLIs",
       "version": "0.2.0",
