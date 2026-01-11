@@ -1,0 +1,20 @@
+{
+  "name": "claude-marketplace",
+  "owner": {
+    "name": "S_T_3_V_3"
+  },
+  "plugins": [
+    {
+      "name": "ai-architect",
+      "source": {
+        "source": "github",
+        "repo": "S_T_3_V_3/ai-architect"
+      },
+      "description": "Route planning, architecture, and review work through configurable AI CLIs",
+      "version": "0.2.0",
+      "author": {
+        "name": "S_T_3_V_3"
+      }
+    }
+  ]
+}
