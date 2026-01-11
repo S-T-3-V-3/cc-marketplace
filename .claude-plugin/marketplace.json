@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "cc-architect",
+      "name": "cc-distribution",
       "source": {
         "source": "github",
-        "repo": "S-T-3-V-3/cc-architect"
+        "repo": "S-T-3-V-3/cc-distribution"
       },
       "description": "Route planning, architecture, and review work through configurable AI CLIs",
       "version": "0.2.0",
