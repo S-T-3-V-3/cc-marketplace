@@ -11,7 +11,7 @@
         "url": "https://github.com/S-T-3-V-3/agent-dispatcher.git"
       },
       "description": "Route planning, architecture, and review work through configurable AI CLIs",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "author": {
         "name": "S-T-3-V-3"
       }
