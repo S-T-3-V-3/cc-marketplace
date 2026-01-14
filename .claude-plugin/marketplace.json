@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "cc-distribution",
+      "name": "agent-dispatcher",
       "source": {
         "source": "url",
-        "url": "https://github.com/S-T-3-V-3/cc-distribution.git"
+        "url": "https://github.com/S-T-3-V-3/agent-dispatcher.git"
       },
       "description": "Route planning, architecture, and review work through configurable AI CLIs",
       "version": "0.2.0",
